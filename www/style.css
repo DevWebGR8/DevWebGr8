@@ -1,0 +1,19 @@
+/* deviser la page en deux verticalement */
+html { 
+    height: 100%;
+    background: #ec3645;
+
+  } 
+  body {
+    position: relative;
+    min-height: 100%;
+    margin: 0 0 0 40%;
+    padding: 0 30px;
+    background: #f9fafa;
+  }
+  #logo {
+    position: absolute;
+    top: 100px;
+    left: -250px;
+  }
+ 
